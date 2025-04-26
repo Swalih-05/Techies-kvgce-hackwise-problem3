@@ -2,7 +2,7 @@
 Solution for the 3rd problem statement 
 Techies,10
 3,Space Mission Fuel Optimizer
-python branch.py
+python code.py
 pip install heapq
 Input:
 (waypoints.txt)
